@@ -1,0 +1,16 @@
+{
+    "config_dir"            : "configuration/",
+    "Downloads"             : "Downloads/",
+    "review_dir"            : "Downloads/{LANG}/Reviews/", 
+    "dataframe_dir"         : "Downloads/{LANG}/DataframeCSV/",
+    "df_combined_file"      : "{LANG}_movie_combined_yearly.csv",
+    "df_entity_file"        : "{LANG}_movie_entities{INCR}.csv",
+    "df_person_file"        : "{LANG}_movie_persons{INCR}.csv",
+    "df_wiki_contents_file" : "{LANG}_movie_text_contents{INCR}.csv",
+    "entity_dir"            : "Downloads/{LANG}/Entity/", 
+    "infobox_dir"           : "Downloads/{LANG}/Infobox/", 
+    "music_dir"             : "Downloads/{LANG}/Music/", 
+    "person_dir"            : "Downloads/{LANG}/Person/", 
+    "summaryplot_dir"       : "Downloads/{LANG}/SummaryPlots/", 
+    "yearly_dir"            : "Downloads/{LANG}/Yearly/"
+}
